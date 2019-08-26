@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Hi, I''m Ariba =)'
+title: 'Hi, I''m Ariba'
 metaTitle: ''
-postsHeading: Recent activity
+postsHeading: Recent Posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
