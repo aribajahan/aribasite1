@@ -1,7 +1,8 @@
 ---
 layout: home
 title: 'Hi, I''m Ariba =)'
-postsHeading: Recent posts
+metaTitle: ''
+postsHeading: Recent activity
 archiveButtonText: See all posts
 socialImage: ''
 ---
