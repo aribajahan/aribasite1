@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Hi, I''m Ariba'
+title: 'Hi, I''m Ariba =)'
 postsHeading: Recent posts
 archiveButtonText: See all posts
 socialImage: ''
