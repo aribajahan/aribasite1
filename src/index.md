@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Hey it's Ariba
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
