@@ -1,19 +1,23 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "Work",
       "url": "/",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andybelldesign/hylia",
-      "external": true
+      "text": "Speaking",
+      "url": "/",
+      "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/andybelldesign",
-      "external": true
+      "text": "Writing",
+      "url": "/",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/"
     }
   ]
 }
