@@ -20,7 +20,7 @@
   --color-theme-highlight: #{get-color('highlight')};
   --color-theme-highlight-block: #{get-color('highlight')};
   --color-theme-nav-bg: #{get-color('my-yellow')};
-  --color-theme-feature-text: #{get-color('primary-glare')};
+  --color-theme-feature-text: #{get-color('primary-pinky')};
 }
 
 @include dark-mode() {
